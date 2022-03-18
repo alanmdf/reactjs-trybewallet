@@ -1,4 +1,4 @@
-# React.JS - Trybe Wallet 💵💲
+# React.JS + Redux - Trybe Wallet 💵💲
 
 # Contexto
 
